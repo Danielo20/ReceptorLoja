@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Receptor</string>
+    <string name="txt_nombre">Nombre:</string>
+    <string name="txt_apellido">Apellido:</string>
+    <string name="txt_dni">DNI:</string>
+    <string name="txt_codigo">Codigo:</string>
+    <string name="txt_direccion">Direccion:</string>
+    <string name="txt_foto">Foto:</string>
+
+    <string name="btn_direccion">Direccion</string>
+
+    <string name="tx_nombre">Nombre</string>
+    <string name="tx_apellido">Apellido</string>
+    <string name="tx_DNI">DNI</string>
+    <string name="tx_Codigo">Codigo</string>
+</resources>
